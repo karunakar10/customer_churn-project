@@ -1,0 +1,10 @@
+customerid,complaint_date,escalations,csat_score,col_1,comment
+0003-MKNFE,2024-08-28 00:00:00,N,60,,service issue
+0003-MKNFE,2024-08-28 00:00:00,Y,10,,demaned refund
+0013-EXCHZ,2024-01-20 00:00:00,Y,20,,
+0013-MHZWF,2025-03-18 00:00:00,N,90,,guidance to renew
+0013-SMEOE,2024-11-01 00:00:00,N,30,,
+0017-IUDMW,2024-04-10 00:00:00,Y,25,,
+0019-EFAEP,2024-09-27 00:00:00,Y,30,,
+0022-TCJCI,2024-09-13 00:00:00,Y,10,,
+0022-TCJCI,2024-09-14 00:00:00,N,90,,received refund
