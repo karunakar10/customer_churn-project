@@ -1,4 +1,6 @@
 # Customer Churn Analysis
+<img width="1264" height="730" alt="image" src="https://github.com/user-attachments/assets/c93d6284-5281-4b76-87d7-4dade39e4369" />
+
 <img width="1297" height="742" alt="image" src="https://github.com/user-attachments/assets/a50b5ae1-3bd9-4941-8764-1754014690f0" />
 
 
