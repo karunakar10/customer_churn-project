@@ -1,4 +1,6 @@
 # Customer Churn Analysis
+<img width="1297" height="742" alt="image" src="https://github.com/user-attachments/assets/a50b5ae1-3bd9-4941-8764-1754014690f0" />
+
 
 ## About the Project
 
@@ -162,6 +164,7 @@ The dashboard contains analysis related to:
 - Revenue
 
 The dashboard helps to view the important results in a simple and interactive way.
+
 
 
 ---
